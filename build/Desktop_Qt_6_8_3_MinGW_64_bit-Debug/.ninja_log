@@ -1,0 +1,20 @@
+# ninja log v6
+7	1070	7662315146554117	Pig_autogen/timestamp	c1cc3fd8c7f3c88e
+7	1070	7662315146554117	Pig_autogen/mocs_compilation.cpp	c1cc3fd8c7f3c88e
+7	1070	7662315146554117	D:/Newpig/Pig/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Pig_autogen/timestamp	c1cc3fd8c7f3c88e
+7	1070	7662315146554117	D:/Newpig/Pig/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Pig_autogen/mocs_compilation.cpp	c1cc3fd8c7f3c88e
+1088	3715	7662315147674452	CMakeFiles/Pig.dir/pigbutton.cpp.obj	23a0c49aa5bab362
+1075	3819	7662315147553732	CMakeFiles/Pig.dir/Pig_autogen/mocs_compilation.cpp.obj	a6d6a81cf0ba9c9d
+1083	4195	7662315147623811	CMakeFiles/Pig.dir/mainwindow.cpp.obj	e6ae2df216965fbd
+62	222	7662315432384270	Pig_autogen/timestamp	c1cc3fd8c7f3c88e
+62	222	7662315432384270	Pig_autogen/mocs_compilation.cpp	c1cc3fd8c7f3c88e
+62	222	7662315432384270	D:/Newpig/Pig/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Pig_autogen/timestamp	c1cc3fd8c7f3c88e
+62	222	7662315432384270	D:/Newpig/Pig/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Pig_autogen/mocs_compilation.cpp	c1cc3fd8c7f3c88e
+246	1914	7662315434221659	CMakeFiles/Pig.dir/main.cpp.obj	d5a7afa67f0b0519
+1914	2230	7662315450895614	Pig.exe	ceb64f17d556fcbe
+36	174	7662316769133236	Pig_autogen/timestamp	c1cc3fd8c7f3c88e
+36	174	7662316769133236	Pig_autogen/mocs_compilation.cpp	c1cc3fd8c7f3c88e
+36	174	7662316769133236	D:/Newpig/Pig/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Pig_autogen/timestamp	c1cc3fd8c7f3c88e
+36	174	7662316769133236	D:/Newpig/Pig/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Pig_autogen/mocs_compilation.cpp	c1cc3fd8c7f3c88e
+175	1984	7662316770520831	CMakeFiles/Pig.dir/mainwindow.cpp.obj	e6ae2df216965fbd
+1984	2211	7662316788606082	Pig.exe	ceb64f17d556fcbe
